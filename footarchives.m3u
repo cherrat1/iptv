@@ -16,21 +16,3 @@ https://example.com/epl/liverpool-arsenal/sd.m3u8
 #EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي",الدوري الإنجليزي | الجولة 6
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/italy_vs_belguim_1/italy_vs_belguim_1_Original_Clean.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | برشلونة × ريال",اللقاء | جودة FHD 1080p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_21-51-10400/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_21-51-10400_240p.mp4
-
-#EXTINF:-1 tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الافيس × مايوركا",اللقاء | جودة HD 720p
-https://example.com/epl/liverpool-arsenal/hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | استراليا × امريكا",اللقاء | جودة SD 480p
-https://example.com/epl/liverpool-arsenal/sd.m3u8
-
-# ===== دوري أبطال أوروبا =====
-#EXTINF:-1 tvg-logo="https://example.com/logos/ucl.png" group-title="🏆 دوري الأبطال | ريال مدريد × بايرن",اللقاء | جودة FHD 1080p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_21-51-10400/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_21-51-10400_240p.mp4
-
-#EXTINF:-1 tvg-logo="https://example.com/logos/ucl.png" group-title="🏆 دوري الأبطال | ريال مدريد × بايرن",اللقاء | جودة HD 720p
-https://example.com/ucl/madrid-bayern/hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/logos/ucl.png" group-title="🏆 دوري الأبطال | ريال مدريد × بايرن",اللقاء | جودة SD 480p
-https://example.com/ucl/madrid-bayern/sd.m3u8

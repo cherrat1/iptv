@@ -2,7 +2,7 @@
 
 # ===== الدوري الإنجليزي | الجولة 5 =====
 #EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | FHD 1080p
-https://example.com/epl/liverpool-arsenal/fhd.m3u8
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33539/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33539_240p.mp4
 
 #EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | HD 720p
 https://example.com/epl/liverpool-arsenal/hd.m3u8
@@ -12,4 +12,4 @@ https://example.com/epl/liverpool-arsenal/sd.m3u8
 
 # ===== الدوري الإنجليزي | الجولة 6 =====
 #EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 6",مباراة الجولة 6
-https://example.com/epl/round6/match.m3u8
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_20-48-15188/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_20-48-15188_1080p.mp4

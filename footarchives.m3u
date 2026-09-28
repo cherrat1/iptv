@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://example.com/epg.xml"
 
 # ===== الدوري الإنجليزي | الجولة 5 =====
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | FHD 1080p
+#EXTINF:-1 tvg-id="epl" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9JtQwVjfjRik45fxiSdQtJBL0eWU1Zt7G0RCn6ZNhcDVCUBL4kTQppoECgUqsBMvaVm6AYs6nrK1n5Vcp8H7ipdDi-fUec4RoQyMrduP-xzXXMVJW6IZoLcIgQy0tdgCubraTP_BcVSt7Bhl1gDW5zN4c0sTEdb5MeCCdJ-Rj2QrBRXoeXgjqMp8JRO-n/s320-rw/large.jpg" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | FHD 1080p
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33539/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33539_240p.mp4
 
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | HD 720p
-https://example.com/epl/liverpool-arsenal/hd.m3u8
+#EXTINF:-1 tvg-id="epl" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPMyDPobd6fGujXPuZhjNl3slNPOzXwVTgt20n_HWi3zIgQwrEXfa4DfTxKHeZMWRdynpC7qaSUr3JbBnLTz1i_eFT5U3llRDDCuwu_UdfQieOU89cSAZrYmJPEeiIOBfdkZL4OgxBLjsUJoz40tnFqabATQjd2kKcGczt_yNjyvPFKTnnrzDzZm3F-INI/s320-rw/VF-QhQqd16OYwLCLW6E___DESKTOP.webp" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | HD 720p
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/45M1VPiqo5Qe0crV871142019440138-2026-09-27_21-50-31980/45M1VPiqo5Qe0crV871142019440138-2026-09-27_21-50-31980_1080p.mp4
 
 #EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | SD 480p
-https://example.com/epl/liverpool-arsenal/sd.m3u8
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666_240p.mp4
 
 # ===== الدوري الإنجليزي | الجولة 6 =====
 #EXTINF:-1 tvg-id="epl" tvg-logo="https://example.com/logos/epl.png" group-title="🏆 الدوري الإنجليزي | الجولة 6",مباراة الجولة 6

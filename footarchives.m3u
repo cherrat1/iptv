@@ -1,36 +1,16 @@
 #EXTM3U x-tvg-url="https://example.com/epg.xml"
 
-# =====ارسنال و برشلونة | دوري الامم الاوروبية | الجولة 5 =====
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="المانيا و اليونان ", | FHD 1080p
+# ===== دوري الأمم الأوروبية | الجولة 5 =====
+#EXTINF:-1 tvg-id="unl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="دوري الأمم الأوروبية",ألمانيا × اليونان | FHD 1080p
 https://footarchives.website:5443/LiveApp/streams/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33.539.mp4
 
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg" group-title="النرويج و البرتغال | HD 720p
+#EXTINF:-1 tvg-id="unl" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg" group-title="دوري الأمم الأوروبية",النرويج × البرتغال | HD 720p
 https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
 
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | SD 480p
+# ===== الدوري الإنجليزي الممتاز | الجولة 5 =====
+#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="🏆 الدوري الإنجليزي",ليفربول × آرسنال | SD 480p
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666_240p.mp4
 
-# ===== الدوري الإنجليزي | الجولة 6 =====
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="🏆 الدوري الإنجليزي | الجولة 6",مباراة الجولة 6
+# ===== الدوري الإنجليزي الممتاز | الجولة 6 =====
+#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="🏆 الدوري الإنجليزي",مباراة الجولة 6 | FHD 1080p
 https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_20-48-15188/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_20-48-15188_1080p.mp4
-
-
-# =====ارسنال و برشلونة | دوري الامم الاوروبية | الجولة 6 =====
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="المانيا و اليونان ", | FHD 1080p
-https://footarchives.website:5443/LiveApp/streams/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33.539.mp4
-
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg" group-title="النرويج و البرتغال | HD 720p
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
-
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | SD 480p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666_240p.mp4
-
-# ===== دوري الامم الاوروبية | الجولة 6 =====
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="المانيا و اليونان ", | FHD 1080p
-https://footarchives.website:5443/LiveApp/streams/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33.539.mp4
-
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg" group-title="النرويج و البرتغال | HD 720p
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
-
-#EXTINF:-1 tvg-id="epl" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg" group-title="🏆 الدوري الإنجليزي | الجولة 5",ليفربول × آرسنال | SD 480p
-https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666/oiQMoLdGEuKtgyMB29030208100974-2026-09-26_20-47-02666_240p.mp4

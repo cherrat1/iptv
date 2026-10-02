@@ -1,1 +1,45 @@
-#EXTM3U vod_library="https://gist.githubusercontent.com/cherrat1/e840672ec7f517fed8a9797e6e2d734c/raw/25e98e72c1b24bb690c39a9cf2a18ebc1c218f0d/FootArchives.otv"
+#EXTM3U
+
+# ===== دوري الأمم الأوروبية =====
+
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg",ألمانيا × اليونان | FHD 1080p
+https://footarchives.website:5443/LiveApp/streams/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33.539.mp4
+
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg",النرويج × البرتغال | HD 720p
+https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+
+
+# ===== الدوري الإنجليزي - الجولة 1 =====
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 1",آرسنال ضد كوفنتري
+https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 1",نيوكاستل ضد ليفربول
+https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+
+
+# ===== الدوري الإنجليزي - الجولة 2 =====
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 2",اسم الفريق الأول ضد اسم الفريق الثاني
+https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 2",اسم الفريق الثالث ضد اسم الفريق الرابع
+MATCH_URL_4
+
+
+# ===== الدوري الإسباني - الجولة 1 =====
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 1",ريال مدريد ضد ريال سوسيداد
+https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 1",برشلونة ضد أتلتيك بيلباو
+MATCH_URL_6
+
+
+# ===== الدوري الإسباني - الجولة 2 =====
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 2",اسم الفريق الأول ضد اسم الفريق الثاني
+https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+
+#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 2",اسم الفريق الثالث ضد اسم الفريق الرابع
+MATCH_URL_8

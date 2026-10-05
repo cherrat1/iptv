@@ -2,44 +2,18 @@
 
 # ===== دوري الأمم الأوروبية =====
 
-#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg",ألمانيا × اليونان | FHD 1080p
-https://footarchives.website:5443/LiveApp/streams/oiQMoLdGEuKtgyMB29030208100974-2026-09-27_21-50-33.539.mp4
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://img.btolat.com/2026/9/27/news/411267/large.jpg",ألمانيا × اليونان 
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/B7Kdl9KN40nnd6os368973290444750-2026-10-04_20-46-28987/
 
-#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg",النرويج × البرتغال | HD 720p
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg",النرويج × البرتغال الشوط الاول
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/2/2_1080p.mp4
 
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://assets.kooora.com/images/v3/VF-QhQqd16OYwLCLW6E___DESKTOP/image.jpg",النرويج × البرتغال الشوط الثاني
+https://s3.g.megas4.com/jmmeqqk52xn3nr7wjgwdas4iwiuexqxmcitg3/match/221289_2026-10-05_0117/221289_2026-10-05_0117_1080p.mp4
 
-# ===== الدوري الإنجليزي - الجولة 1 =====
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://www.elaosboa.com/wp-content/uploads/2026/09/elaosboa58064.jpg",هولندا × صربيا الشوط الاول
+https://vod3.cf.dmcdn.net/sec2(NgOLo-mK1yDDkyyyXQG3Us-HHMCQBe6eBmY-C8rQgbQpoueVPlC__ceI-ObtnZZF-XcoHIJXUvC5XQLBx9gwoVdR3EJ7WNwH7AyPggcT78Aw2ze6FBkdgNS1tRw0s1AvZJqO4moQkwDtgNbGQh4xy4JHIVEDjvZfjDCNkx2QYWgAfmz9vWPgshqVpYUIvk-XKDN4I-pG4n3OaeRp1K65Nw)/video/fmp4/695360890/h264_fhd_hfr/3/manifest.m3u8
 
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 1",آرسنال ضد كوفنتري
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
+#EXTINF:-1 type="movie" media="true" group-title="دوري الأمم الأوروبية" tvg-logo="https://www.elaosboa.com/wp-content/uploads/2026/09/elaosboa58064.jpg",هولندا × صربيا الشوط الثاني
+https://vod3.cf.dmcdn.net/sec2(2v-B4eLAy818JHPbsljdeuyT5Zls8VIR3SZy98gaL4Pl0SpI45T8vzvv8ggWBUwBIw9F0ngPT9WamxVijMiJvHSvE0m1PQ52fZL__zF1bVPiRbMIiesLMjUWkl7wf1b-6h3FxPo1kdSOPFC20p_skOJ_ywenNboPhLB7_AyNR9aewR9krFF2h4SuBnRMPcngjqWJkwPZr_f5die0GWtgiA)/video/fmp4/695369282/h264_fhd_hfr/3/manifest.m3u8
 
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 1",نيوكاستل ضد ليفربول
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
-
-
-# ===== الدوري الإنجليزي - الجولة 2 =====
-
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 2",اسم الفريق الأول ضد اسم الفريق الثاني
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
-
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإنجليزي - الجولة 2",اسم الفريق الثالث ضد اسم الفريق الرابع
-MATCH_URL_4
-
-
-# ===== الدوري الإسباني - الجولة 1 =====
-
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 1",ريال مدريد ضد ريال سوسيداد
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
-
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 1",برشلونة ضد أتلتيك بيلباو
-MATCH_URL_6
-
-
-# ===== الدوري الإسباني - الجولة 2 =====
-
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 2",اسم الفريق الأول ضد اسم الفريق الثاني
-https://footarchives.website:5443/LiveApp/streams/45M1VPiqo5Qe0crV871142019440138-2026-09-27_20-48-13.505.mp4
-
-#EXTINF:-1 type="movie" media="true" group-title="الدوري الإسباني - الجولة 2",اسم الفريق الثالث ضد اسم الفريق الرابع
-MATCH_URL_8
